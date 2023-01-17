@@ -1399,3 +1399,405 @@ top: 45px;
 
     color: #87D322;
 }
+
+
+
+
+
+/*mobıl boyutlar*/
+
+
+bg-hero{
+/* Bg-hero */
+
+
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+}
+
+.line-1{
+
+    /* Line 1 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+
+.line-2{
+ /* Line 2 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+}
+.line-3{
+    /* Line 3 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+.line-4{
+
+    /* Line 4 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+.line-5{
+    /* Line 5 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 4;
+flex-grow: 0;
+}
+
+
+.line-6{
+
+    /* Line 6 */
+
+
+width: 812px;
+height: 0px;
+
+border: 1px dashed #2A2A2A;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+
+flex: none;
+order: 5;
+flex-grow: 0;
+
+}
+
+
+
+.rectangle-1{
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 293.04px;
+height: 70.42px;
+left: 35px;
+top: 480.89px;
+
+background: #181818;
+transform: rotate(-4deg);
+
+}
+
+.rectangle-1{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 292.3px;
+height: 70.24px;
+left: 37.68px;
+top: 538px;
+
+background: #181818;
+transform: rotate(2deg);
+}
+
+.rectangle-1{
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 292.9px;
+height: 70.39px;
+left: 35px;
+top: 612.45px;
+
+background: #181818;
+transform: rotate(-2deg);
+}
+
+.rectangle-1{
+
+    /* Rectangle 1 */
+
+
+position: absolute;
+width: 291.33px;
+height: 70.01px;
+left: 40.33px;
+top: 672px;
+
+background: #181818;
+transform: rotate(4deg);
+}
+
+
+button{
+    /* Get Started */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 10px;
+
+position: absolute;
+width: 139px;
+height: 44px;
+left: 118px;
+top: 356px;
+
+background: #A8FF35;
+border-radius: 40px;
+}
+
+
+
+p{
+/* Don’t let your computer memories consumes all of those browser tabs. Findtrend let you gathers all of your favorite website into one place. */
+
+
+position: absolute;
+width: 286px;
+height: 84px;
+left: 45px;
+top: 240px;
+
+font-family: 'Effra';
+font-style: normal;
+font-weight: 400px;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+text-align: center;
+
+color: #8B8B8B;
+}
+
+h1{
+    /* Minimize your tabs. */
+
+
+position: absolute;
+width: 320px;
+height: 40px;
+left: 28px;
+top: 144px;
+
+font-family: 'Effra';
+font-style: normal;
+font-weight: 900px;
+font-size: 36px;
+line-height: 112%;
+/* or 40px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+h2{
+    /* Find the trends! */
+
+
+position: absolute;
+width: 258px;
+height: 40px;
+left: 58px;
+top: 184px;
+
+font-family: 'Effra';
+font-style: normal;
+font-weight: 900px;
+font-size: 36px;
+line-height: 112%;
+/* or 40px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.icon{
+    /* icon */
+
+
+position: absolute;
+left: 88.8%;
+right: 4.8%;
+top: 0.46%;
+bottom: 99.19%;
+}
+
+
+.icon path{
+
+    /* Path */
+
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 29.17%;
+bottom: 62.5%;
+
+background: #FFFFFF;
+}
+
+
+.icon  path{
+  
+
+/* Path */
+
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 62.5%;
+bottom: 29.17%;
+
+background: #FFFFFF;
+
+}
+
+.vector {
+
+
+/* Vector logo*/
+
+
+position: absolute;
+left: 4.8%;
+right: 84.53%;
+top: 0.35%;
+bottom: 99.08%;
+
+background: #A8FF35;
+}
+
+
+
+.BG2{
+
+/* BG2 */
+
+
+position: absolute;
+width: 375px;
+height: 541px;
+left: 0px;
+top: 812px;
+
+background: #A8FF35;
+}
+
+.BG2 h1{
+
+    /* Open new tabs is sh*t */
+
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 14px;
+top: 892px;
+
+font-family: 'Effra';
+font-style: normal;
+font-weight: 700px;
+font-size: 36px;
+line-height: 112%;
+/* or 40px */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+/*yazı etiketi */
+
+.minik#foto{
+    /* You just need one tab now */
+
+
+position: absolute;
+width: 93px;
+height: 24px;
+left: 262.51px;
+top: 964px;
+
+font-family: 'GoodDog New';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+text-align: center;
+
+color: #000000;
+
+transform: rotate(6deg);
+}
